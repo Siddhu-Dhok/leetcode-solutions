@@ -6,11 +6,11 @@ This repository contains my Python solutions to LeetCode problems, organized by 
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy | 4 |
+| Easy | 5 |
 | Medium | 0 |
 | Hard | 0 |
 
-### 🟢 Easy Problems (4 solved)
+### 🟢 Easy Problems (5 solved)
 
 | # | Problem | File |
 |---|---------|------|
@@ -18,3 +18,4 @@ This repository contains my Python solutions to LeetCode problems, organized by 
 | 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [0009-palindrome-number.py](easy/0009-palindrome-number.py) |
 | 0013 | [Roman Num](https://leetcode.com/problems/roman-num/) | [0013-roman-num.py](easy/0013-roman-num.py) |
 | 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [0014-longest-common-prefix.py](easy/0014-longest-common-prefix.py) |
+| 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [0020-valid-parentheses.py](easy/0020-valid-parentheses.py) |
