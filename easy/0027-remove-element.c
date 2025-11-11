@@ -1,6 +1,6 @@
-# Problem: 20. Valid Parentheses
-# Difficulty: Easy
-# URL: https://leetcode.com/problems/remove-element/
+// Problem: 20. Valid Parentheses
+// Difficulty: Easy
+// URL: https://leetcode.com/problems/remove-element/
 
 int removeElement(int* nums, int numsSize, int val) {
     int k = 0;
