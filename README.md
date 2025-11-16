@@ -6,11 +6,11 @@ This repository contains my Python, C, and C++ solutions to LeetCode problems, o
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy | 7 |
+| Easy | 8 |
 | Medium | 0 |
 | Hard | 0 |
 
-### 🟢 Easy Problems (7 solved)
+### 🟢 Easy Problems (8 solved)
 
 | # | Problem | Language | File |
 |---|----------|-----------|------|
@@ -21,3 +21,4 @@ This repository contains my Python, C, and C++ solutions to LeetCode problems, o
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Python 🐍 | [0020-valid-parentheses.py](easy/0020-valid-parentheses.py) |
 | 0026 | [Remove Dupplicates From Sorted Array](https://leetcode.com/problems/remove-dupplicates-from-sorted-array/) | Python 🐍 | [0026-remove-dupplicates-from-sorted-array.py](easy/0026-remove-dupplicates-from-sorted-array.py) |
 | 0027 | [Remove Element](https://leetcode.com/problems/remove-element/) | C 💻 | [0027-remove-element.c](easy/0027-remove-element.c) |
+| 0028 | [Index_Of_The_First_Occurrence](https://leetcode.com/problems/index_of_the_first_occurrence/) | C 💻 | [0028-index_of_the_first_occurrence.c](easy/0028-index_of_the_first_occurrence.c) |
