@@ -6,11 +6,11 @@ This repository contains my Python, C, and C++ solutions to LeetCode problems, o
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy | 9 |
+| Easy | 10 |
 | Medium | 0 |
 | Hard | 0 |
 
-### 🟢 Easy Problems (9 solved)
+### 🟢 Easy Problems (10 solved)
 
 | # | Problem | Language | File |
 |---|----------|-----------|------|
@@ -23,3 +23,4 @@ This repository contains my Python, C, and C++ solutions to LeetCode problems, o
 | 0027 | [Remove Element](https://leetcode.com/problems/remove-element/) | C 💻 | [0027-remove-element.c](easy/0027-remove-element.c) |
 | 0028 | [Index_Of_The_First_Occurrence](https://leetcode.com/problems/index_of_the_first_occurrence/) | C 💻 | [0028-index_of_the_first_occurrence.c](easy/0028-index_of_the_first_occurrence.c) |
 | 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | C 💻 | [0035-search-insert-position.c](easy/0035-search-insert-position.c) |
+| 0058 | [Length Of Last Word](https://leetcode.com/problems/length-of-last-word/) | Python 🐍 | [0058-length-of-last-word.py](easy/0058-length-of-last-word.py) |
