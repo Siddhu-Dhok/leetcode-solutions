@@ -6,11 +6,11 @@ This repository contains my Python, C, and C++ solutions to LeetCode problems, o
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy | 8 |
+| Easy | 9 |
 | Medium | 0 |
 | Hard | 0 |
 
-### 🟢 Easy Problems (8 solved)
+### 🟢 Easy Problems (9 solved)
 
 | # | Problem | Language | File |
 |---|----------|-----------|------|
@@ -22,3 +22,4 @@ This repository contains my Python, C, and C++ solutions to LeetCode problems, o
 | 0026 | [Remove Dupplicates From Sorted Array](https://leetcode.com/problems/remove-dupplicates-from-sorted-array/) | Python 🐍 | [0026-remove-dupplicates-from-sorted-array.py](easy/0026-remove-dupplicates-from-sorted-array.py) |
 | 0027 | [Remove Element](https://leetcode.com/problems/remove-element/) | C 💻 | [0027-remove-element.c](easy/0027-remove-element.c) |
 | 0028 | [Index_Of_The_First_Occurrence](https://leetcode.com/problems/index_of_the_first_occurrence/) | C 💻 | [0028-index_of_the_first_occurrence.c](easy/0028-index_of_the_first_occurrence.c) |
+| 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | C 💻 | [0035-search-insert-position.c](easy/0035-search-insert-position.c) |
