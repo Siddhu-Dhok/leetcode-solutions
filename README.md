@@ -6,11 +6,11 @@ This repository contains my Python, C, and C++ solutions to LeetCode problems, o
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy | 11 |
+| Easy | 12 |
 | Medium | 0 |
 | Hard | 0 |
 
-### 🟢 Easy Problems (11 solved)
+### 🟢 Easy Problems (12 solved)
 
 | # | Problem | Language | File |
 |---|----------|-----------|------|
@@ -25,3 +25,4 @@ This repository contains my Python, C, and C++ solutions to LeetCode problems, o
 | 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | C 💻 | [0035-search-insert-position.c](easy/0035-search-insert-position.c) |
 | 0058 | [Length Of Last Word](https://leetcode.com/problems/length-of-last-word/) | Python 🐍 | [0058-length-of-last-word.py](easy/0058-length-of-last-word.py) |
 | 0066 | [Plus One](https://leetcode.com/problems/plus-one/) | Python 🐍 | [0066-plus-one.py](easy/0066-plus-one.py) |
+| 0067 | [Add Binary](https://leetcode.com/problems/add-binary/) | Python 🐍 | [0067-add-binary.py](easy/0067-add-binary.py) |
