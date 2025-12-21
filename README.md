@@ -6,11 +6,11 @@ This repository contains my Python, C, and C++ solutions to LeetCode problems, o
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy | 13 |
+| Easy | 14 |
 | Medium | 0 |
 | Hard | 0 |
 
-### 🟢 Easy Problems (13 solved)
+### 🟢 Easy Problems (14 solved)
 
 | # | Problem | Language | File |
 |---|----------|-----------|------|
@@ -27,3 +27,4 @@ This repository contains my Python, C, and C++ solutions to LeetCode problems, o
 | 0066 | [Plus One](https://leetcode.com/problems/plus-one/) | Python 🐍 | [0066-plus-one.py](easy/0066-plus-one.py) |
 | 0067 | [Add Binary](https://leetcode.com/problems/add-binary/) | Python 🐍 | [0067-add-binary.py](easy/0067-add-binary.py) |
 | 0069 | [Sqrtx](https://leetcode.com/problems/sqrtx/) | Python 🐍 | [0069-sqrtx.py](easy/0069-sqrtx.py) |
+| 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Python 🐍 | [0070-climbing-stairs.py](easy/0070-climbing-stairs.py) |
